@@ -4,4 +4,3 @@ export default function animation(name: string) {
 	console.log(`${BOLD}${name}${RESET}`);
 }
 
-animation("Hello");
